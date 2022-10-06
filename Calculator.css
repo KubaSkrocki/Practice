@@ -91,6 +91,7 @@ div.equal {
   color: #FFF;
   background-color: #4d90fe;
   transition: all .2s ease-in-out;
+  float: right;
 }
 div.equal:hover {
   background-color: #307CF9;
